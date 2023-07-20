@@ -1,0 +1,30 @@
+.card{
+    margin-top: 16px;
+    display: inline-flex;
+padding: 40px;
+flex-direction: column;
+align-items: flex-start;
+gap: 32px;
+background: var(--white, #FFF);
+width: 300px;
+height: 248px;
+}
+.card__title{
+    color: var(--gray-900, #041434);
+font-size: 24px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: -0.72px;
+}
+.card__p{
+    color: var(--gray-800, #4A556C);
+font-size: 16px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.32px;
+width: 290px;
+}

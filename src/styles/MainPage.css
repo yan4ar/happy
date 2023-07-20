@@ -1,0 +1,213 @@
+
+.block{
+    margin-top: 10px;
+    width: 100%;
+    height: 677px;
+    background-image: url(../assets/image/back.png);
+    background-size: cover;
+}
+.block__flex{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.block__text-one{
+    margin-top: 140px;
+    color: var(--gray-800, #4A556C);
+font-size: 16px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.32px;
+}
+.block__text-main{
+    margin-top: 6px;
+    color: #333461;
+font-size: 72px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: 120%;
+letter-spacing: -0.72px;
+}
+.block__text-two{
+    margin-top: 18px;
+    margin-bottom: 18px;
+    color: #4A556C;
+font-size: 18px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 160%;
+width: 469px;
+}
+.title__img{
+    margin-top: 110px;
+}
+.title__text-one{
+    margin-top: 32px;
+    color: #333461;
+font-size: 48px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: 56px;
+letter-spacing: -0.48px;
+width: 583px;
+}
+.title{
+    display: flex;
+    justify-content: space-evenly;
+}
+.title__text-two{
+    margin-left: 74px;
+    margin-top: 143px;
+    color: #4A556C;
+font-size: 17px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 25px;
+}
+.card__block-two{
+    margin-top: 80px;
+    background: #FAF8F6;
+    height: 879px;
+    width: 100%;
+}
+.card__title-two{
+    padding-top: 120px;
+    color: #333461;
+font-size: 48px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: 56px;
+letter-spacing: -0.48px;
+display: flex;
+width: 557px;
+flex-direction: column;
+flex-shrink: 0;
+}
+.cards-two{
+    margin-top: 37px;
+    margin-left: 272px;
+}
+.card-three__title{
+    margin-top: 97px;
+    display: flex;
+width: 680px;
+flex-direction: column;
+flex-shrink: 0;
+color: #333461;
+text-align: center;
+font-size: 48px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: 56px;
+letter-spacing: -0.48px;
+
+}
+.cards__three{
+    margin-top: 65px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+.free__flex{
+    margin-top: 220px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.free__title{
+    display: flex;
+width: 546px;
+flex-direction: column;
+flex-shrink: 0;
+color: #333461;
+font-size: 48px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: 56px;
+letter-spacing: -0.48px;
+}
+.free__text{
+    margin-top: 22px;
+    display: flex;
+width: 550px;
+flex-direction: column;
+flex-shrink: 0;
+color: #4A556C;
+font-size: 22px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+}
+.free__text-two{
+    margin-top: 22px;
+    display: flex;
+    width: 550px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #4A556C;
+    font-size: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33px;
+    margin-bottom: 22px;
+}
+.free__img{
+    margin-top: -60px;
+}
+.book__flex{
+    width: 1216px;
+    height: 480px;
+    display: flex;
+align-items: center;
+flex: 1 0 0;
+border-radius: 24px;
+background: #FAF8F6;
+box-shadow: 0px 8px 8px -4px rgba(16, 24, 40, 0.04);
+}
+.book__flex{
+    display: flex;
+    justify-content: space-between;
+}
+.book__title{
+    display: flex;
+width: 550px;
+flex-direction: column;
+color: #333461;
+font-size: 36px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.book__text{
+    margin-top: 20px;
+    display: flex;
+width: 480px;
+flex-direction: column;
+color: rgba(74, 85, 108, 0.50);
+font-size: 20px;
+font-family: 'Kumbh Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 40px;
+}
+.book__block{
+    margin-left: 64px;
+}
+.book{
+    margin-top: 140px;
+}

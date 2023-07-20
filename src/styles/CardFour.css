@@ -1,0 +1,44 @@
+.ares{
+    width: 450px;
+height: 360px;
+flex-shrink: 0;
+border: 1px solid #EDEFF5;
+background: #FFF;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-bottom: 20px;
+}
+.ares__flex{
+    width: 300px;
+height: 248px;
+flex-shrink: 0;
+}
+.ares__titleTwo{
+   
+    display: flex;
+flex-direction: column;
+color: #20AD96;
+font-family: 'Kumbh Sans', sans-serif;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px;
+letter-spacing: -0.72px;
+}
+.ares__text{
+    margin-top: 16px;
+    display: flex;
+flex-direction: column;
+color: var(--gray-800, #4A556C);
+font-family: 'Kumbh Sans', sans-serif;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: -0.32px;
+}
+.ares__img{
+
+    margin-bottom: 32px;
+}
